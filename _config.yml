@@ -11,7 +11,7 @@ title:            Personal Homepage for Chunjiang Zhu
 tagline:          'A Jekyll theme'
 description:      'This is a web page for Chunjiang Zhu'
 url:              chunjiangzhu.github.io
-baseurl:          /
+baseurl:          http://chunjiangzhu.github.io/chunjiangzhu/
 
 author:
   name:           'Chunjiang Zhu'
